@@ -1,7 +1,7 @@
 # 💫 Hello, I'm Oguzhan
 
 I'm actively engaging in personal projects to deepen my proficiency in Spring Boot, React, and React Native. My focus is on crafting reliable web and mobile applications, leveraging these technologies to enhance functionality and user experience.
-<img src="https://github.com/oguzzhanturkmen/oguzzhanturkmen/assets/111460897/3abb3ed8-adf7-4b31-be2f-510b3faf6192" width="400" />
+
 
 <!-- Tech Stack Section -->
 # 💻 Tech Stack:
