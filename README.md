@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oguzzhanturkmen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=20" height="210" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzzhanturkmen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="210" alt="languages graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=oguzzhanturkmen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=20" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzzhanturkmen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -45,6 +45,6 @@
 
 ###
 
-<p align="left">I am currently developing projects with Spring Boot, React, React Native.</p>
+<p align="right">I am currently developing projects with Spring Boot, React, React Native.</p>
 
 ###
