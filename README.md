@@ -7,7 +7,7 @@ I am currently developing projects with Spring Boot, React, React Native.
 
 <!-- Stats and GIF Section -->
 <p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzzhanturkmen&theme=dark&hide_border=true" width="600" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzzhanturkmen&theme=dark&hide_border=true" width="570" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzzhanturkmen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400" /> 
   <img src="https://github.com/oguzzhanturkmen/oguzzhanturkmen/assets/111460897/3abb3ed8-adf7-4b31-be2f-510b3faf6192" width="400" />
 </p>
