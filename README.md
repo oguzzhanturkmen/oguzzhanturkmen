@@ -9,8 +9,8 @@ I'm actively engaging in personal projects to deepen my proficiency in Spring Bo
 
 <!-- Stats and GIF Section -->
 <p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzzhanturkmen&theme=dark&hide_border=true" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzzhanturkmen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="360" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzzhanturkmen&theme=dark&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzzhanturkmen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="320" /> 
   
 </p>
 
